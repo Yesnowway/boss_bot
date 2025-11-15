@@ -10,8 +10,8 @@ logging.basicConfig(
 )
 
 # Get from Railway environment variables
-BOT_TOKEN = os.environ["BOT_TOKEN"]
-CHANNEL_ID = os.environ["CHANNEL_ID"]
+BOT_TOKEN = os.environ["AAEh5gbdHJ_RqWRW9MGbpVMZtOCuM6XSnHQ"]
+CHANNEL_ID = os.environ["-1003470482859"]
 
 def is_valid_device_id(text):
     if len(text) != 12:
